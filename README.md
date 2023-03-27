@@ -156,11 +156,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- LED off condition
+ LED on condition
  
  ![WhatsApp Image 2023-03-24 at 12 45 10](https://user-images.githubusercontent.com/118707521/227452130-50b9f035-86fc-482b-bd18-ed85a1bc6f42.jpg)
 
- LED on condition
+ LED off condition
  ![WhatsApp Image 2023-03-24 at 12 45 09](https://user-images.githubusercontent.com/118707521/227452206-3fa121a5-8ebc-497d-a76e-0c936ab747a2.jpg)
 
  
